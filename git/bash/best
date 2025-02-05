@@ -1,2 +1,14 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "This school is so cool!"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+echo "This school is so cool!"
+=======
+echo "Best school"
+>>>>>>> update_script
+=======
+echo "This school is so cool!"
+>>>>>>> update_script
+>>>>>>> main
